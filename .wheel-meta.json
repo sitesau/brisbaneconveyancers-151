@@ -1,0 +1,22 @@
+{
+  "wheel_id": 633,
+  "structure": "umbrella",
+  "slug": "brisbaneconveyancers-151",
+  "project": "conveyancing-services-brisbane-common-mistakes-5cb191ea44960",
+  "parent_t1_ref": "brisbaneconveyancers-012",
+  "node_role": "buffer",
+  "money_target": "brisbaneconveyancers.net.au",
+  "primary_kw": "conveyancing services brisbane common mistakes",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/conveyancing-services-brisbane-common-mistakes-5cb191ea44960/",
+  "tier": "T2",
+  "writeback_nonce": "665c22ab057e2e13",
+  "links": [
+    {
+      "target_url": "https://conveyancing-services-brisbane-brisbaneconveyancers-012-329493.gitlab.io/",
+      "anchor": "https://conveyancing-services-brisbane-brisbaneconveyancers-012-329493.gitlab.io/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
